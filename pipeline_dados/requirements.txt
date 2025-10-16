@@ -1,0 +1,9 @@
+# Bibliotecas principais para manipulação de dados em Python
+pandas
+numpy
+
+# Usada para leitura e manipulação de arquivos de dados (CSV, Excel, etc.)
+# e para as operações de "fusao" (merge/join).
+
+# Bibliotecas comuns para visualização de dados e análise exploratória (EDA)
+# Frequentemente usadas em Jupyter Notebooks (exploracao.ipynb)
