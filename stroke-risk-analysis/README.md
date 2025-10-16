@@ -23,7 +23,7 @@ O dashboard final foi construído no Power BI para facilitar a leitura e explora
 
 ****
 
-**👉 [INSERIR LINK DO POWER BI AQUI - Ex: Power BI Service ou GitHub Pages]**
+**👉 https://github.com/danoliveiraed/portfolio-projects**
 
 ---
 
@@ -53,5 +53,6 @@ O projeto seguiu um fluxo de trabalho (workflow) de análise de dados bem defini
 
 Se você tiver alguma dúvida ou sugestão sobre a análise, sinta-se à vontade para entrar em contato.
 
-* **LinkedIn:** [Seu Link do LinkedIn]
-* **Email:** [Seu Email]
+* **LinkedIn:** (https://www.linkedin.com/in/danielhroliveira/)
+* **Email:** daniel.rodrigues12.85@gmail.com
+
